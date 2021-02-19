@@ -1,0 +1,35 @@
+Category,Number,Name,Address 1,City,Province,Country,Postal Code,Telefon,color,shape
+G,,FreshCo Simcoe & Byng,1150 Simcoe Street North,Oshawa,ON,Canada,L1G 4W7,905-576-9562,blue,shopping-cart
+G,,FreshCo Simcoe & Winchester,2650 Simcoe Street North,Oshawa,ON,Canada,L1L 0R1,905-436-9851,blue,shopping-cart
+G,173,"Giant Tiger, Oshawa",250 Taunton Road East,Oshawa,ON,Canada,L1G 7T1,905-438-8433,blue,shopping-cart
+G,,Sobeys Oshawa,1377 Wilson Road North,Oshawa,ON,Canada,˜L1K 2Z5,905-440-4687,blue,shopping-cart
+G,,LIZ'S NOFRILLS OSHAWA,1050 SIMCOE ST N,Oshawa,ON,Canada,L1G 4W5,866-987-6453,blue,shopping-cart
+G,,Metro Taunton & Ritson,1265 Ritson Rd. N.,Oshawa,ON,Canada,L1G 3V2,905-432-2197,blue,shopping-cart
+G,3161,Oshawa North Supercentre,1471 Harmony Rd N. ,Oshawa,ON,Canada,L1H 7K5,905-404-6581,blue,shopping-cart
+G,,Food Basics,555 Rossland Road East,Oshawa,ON,Canada,L1K1K8,905-579-5862,blue,shopping-cart
+G,,NADIM'S NOFRILLS OSHAWA,200 RITSON RD N,Oshawa,ON,Canada,L1G 0B2,866-987-6453,blue,shopping-cart
+G,1056,Oshawa Supercentre,680 Laval Dr,Oshawa,ON,Canada,L1J 0B5,905-438-1400,blue,shopping-cart
+O,,Oshawa˜Warehouse,130 RITSON RD NORTH,Oshawa,ON,Canada,L1G 0A6,905-404-4050,orange,magnet
+E,,Best Buy˜First Pro Oshawa,1421 Harmony Rd. N,Oshawa,ON,Canada,L1K 0Z6,905-433-4455,purple,bolt
+E,,The Source,991 TAUNTON RD E,Oshawa,ON,Canada,L1H 7K5,905-720-0103,purple,bolt
+F,,Taco Bell,1326 Simcoe St N,Oshawa,ON,Canada,L1G 4X1,905-725-9775,green,cutlery
+F,2098,Arby's Oshawa,300 Taunton Rd. E,Oshawa,ON,Canada,L1H 7K4,905-723-4178,green,cutlery
+F,,Osmow's (Simcoe/Niagara),1900 Simcoe St N,Oshawa,ON,Canada,L1G 4Y3,905-571-0999,green,cutlery
+O,#7123,THE HOME DEPOT OSHAWA,1481 Harmony Rd. N.,Oshawa,ON,Canada,L1H 7K5,(905) 743-5600,orange,magnet
+C,,WINNERSÿOshawa,891ÿTaunton Rd East,Oshawa,ON,Oshawa,L1Hÿ7K5,905-433-8181,red,user-secret
+C,,Marshalls Oshawa,1415ÿHarmony Road,Oshawa,ON,Oshawa,L1Hÿ7K5,905-571-4525,red,user-secret
+C,,Reitmans Oshawa,1405 Harmony Rd N,Oshawa,ON,Oshawa,L1H 7K5,19054344517,red,user-secret
+C,,Zara,419 King St W,Oshawa,On,Oshawa,L1J 4X3,19057234296,red,user-secret
+C,,Garage,419 King St W,Oshawa,On,Oshawa,L1J 4X4,19057430618,red,user-secret
+C,,Pink Canary,419 King St W,Oshawa,On,Oshawa,L1J 4X5,16474952479,red,user-secret
+C,,Dynamite,419 King St W,Oshawa,On,Oshawa,L1J 4X6,19057287373,red,user-secret
+C,,Roots,419 King St W,Oshawa,On,Oshawa,L1J 4X7,19055790451,red,user-secret
+C,,Mark's,1397 Harmony Rd N,Oshawa,On,Oshawa,L1K 0Z6,19055715992,red,user-secret
+C,,Joe Fresh,1385 Harmony Rd N,Oshawa,On,Oshawa,L1H 7K5,19054339569,red,user-secret
+F,,Wendy's,2640 Simcoe St N Unit A10.1,Oshawa,On,Oshawa,L1H 7K4,19054323030,green,cutlery
+F,,Shawarma 401,1383 Wilson Rd N,Oshawa,On,Oshawa,L1K 2Z5,905-261-0401,green,cutlery
+F,,Harvey's,250 Taunton Road East,Oshawa,On,Oshawa,L1G 6Z6,905-434-5084,green,cutlery
+F,,La Pizza & Pasta,30 Taunton Rd East,Oshawa,On,Oshawa,L1G 3T7,905-725-5100,green,cutlery
+F,,Rainbow Sushi,1180 Simcoe St N,Oshawa,On,Oshawa,L1G 4W8,905-240-5666,green,cutlery
+F,,Bento Sushi,285 Taunton Rd E,Oshawa,On,Oshawa,L1G 3V2,905-240-5666,green,cutlery
+F,,Subway,555 Rossland Rd E,Oshawa,On,Oshawa,L1K 1N5,289-240-4000,green,cutlery
